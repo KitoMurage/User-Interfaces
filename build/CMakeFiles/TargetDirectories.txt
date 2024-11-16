@@ -1,0 +1,5 @@
+/workspaces/User-Interfaces/build/CMakeFiles/rebuild_cache.dir
+/workspaces/User-Interfaces/build/CMakeFiles/edit_cache.dir
+/workspaces/User-Interfaces/build/CMakeFiles/test_quake.dir
+/workspaces/User-Interfaces/build/CMakeFiles/test_dataset.dir
+/workspaces/User-Interfaces/build/CMakeFiles/quaketool.dir
